@@ -34,4 +34,4 @@ Então execute o comando abaixo para instalar as depêndencias do projeto.
 
 ## Conheça o projeto
 
-<img alt="screenshot of adding a new file with a commit message" src="./src/assets/evento.jpeg" />
+<img alt="screenshot of adding a new file with a commit message" src="./assets/evento.jpeg" />
